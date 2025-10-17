@@ -1,0 +1,2 @@
+# Artificial_Intelligence_Lab_Se_73
+Github repository creation
